@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="img">
+    <file>Imgs/Actions-contact-new-icon.png</file>
+    <file>Imgs/add.png</file>
+    <file>Imgs/cote.png</file>
+    <file>Imgs/delete.png</file>
+    <file>Imgs/entete.png</file>
+    <file>Imgs/font.jpg</file>
+    <file>Imgs/logo.jpg</file>
+    <file>Imgs/logo2.png</file>
+    <file>Imgs/modifier.png</file>
+    <file>Imgs/remove.png</file>
+    <file>Imgs/search.png</file>
+    <file>Imgs/User.png</file>
+  </qresource>
+</RCC>
